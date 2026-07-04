@@ -1,0 +1,23 @@
+RESUMO DOS EXPERIMENTOS
+
+O experimento com maior F1-Score macro foi o
+Experimento 7 —
+SVM RBF C=10, com F1 macro de
+0.8910.
+
+O maior valor de acurácia foi obtido pelo
+Experimento 7 —
+SVM RBF C=10, com acurácia de
+0.8944.
+
+O menor número de tumores classificados como
+"notumor" foi obtido pelo Experimento
+3 —
+CNN BatchNorm e Dropout 50%, com
+26
+ocorrências.
+
+A conclusão final deve considerar simultaneamente
+F1 macro, recall das classes de tumor, matriz de
+confusão, falsos negativos, overfitting e custo
+computacional.
